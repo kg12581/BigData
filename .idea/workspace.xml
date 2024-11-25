@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98375e32-fac1-4057-9927-6e7a0f7442ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Catalogs/Oracle/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catalogs/mysql/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catalogs/postgresql/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conn/Oracle/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conn/mysql/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conn/postgresql/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyspark/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/knn/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/决策树/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/最小二乘法/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/线性回归/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1-py38.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BigData.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo04_sparksql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo05_mc_pyspark.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo06_UDF.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo11_天气预报.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/douban.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/word.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -332,16 +331,6 @@
           <url>file://$PROJECT_DIR$/../pythonProject1-py38-all/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Demo05_mc_pyspark.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
