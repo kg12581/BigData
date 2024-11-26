@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98375e32-fac1-4057-9927-6e7a0f7442ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Demo01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo04_sparksql.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo05_mc_pyspark.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06_UDF.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo11_天气预报.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/douban.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/word.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/knn/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/knn/knn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;D:/BigData&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/BigData",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\pythonProject1-py38" />
