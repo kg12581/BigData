@@ -55,7 +55,7 @@ print(iris.target)
 4、划分数据集
 使用train_test_split函数将数据集划分为训练集和测试集，train_test_split函数是Scikit-Learn库中一个非常重要的工具。常用参数如下，
 
-![img.png](001.png)
+![](001.png)
 
 ```python
 from sklearn.model_selection import train_test_split
@@ -157,5 +157,5 @@ print(man_dist)
 
 
 
-
+![](002.png)
  
